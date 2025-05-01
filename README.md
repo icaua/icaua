@@ -17,6 +17,8 @@
 
 ---
 
+## 📈 Estatísticas GitHub
+
 ![icaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaua&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaua&layout=compact&theme=radical)](https://github.com/icaua)
 
@@ -43,8 +45,6 @@ Página temática desenvolvida com HTML e CSS puro. Demonstra domínio da estrut
 Repositório com atividades e configurações realizadas nas aulas de redes e infraestrutura durante o curso técnico.
 
 ---
-
-## 📈 Estatísticas GitHub
 
 
 
