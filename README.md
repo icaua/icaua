@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Isaac Cauã
+# 👋 Olá! Eu sou o Isaac Cauã	
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela FIAP  
 💼 Experiência com suporte técnico e BI em ambientes corporativos  
@@ -9,11 +9,16 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Python, JavaScript, HTML, CSS, SQL
+- **Linguagens:** JAVA, Python, JavaScript, HTML, CSS, SQL
 - **Frameworks & libs:** Bootstrap, React (iniciando), jQuery
 - **Ferramentas:** Git, GitHub, Power BI, Excel, VS Code
 - **Redes e Infraestrutura:** Linux, Switch Cisco, VirtualBox, GNS3
 - **Banco de Dados:** MySQL, SQL Server
+
+---
+
+![icaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaua&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaua&layout=compact&theme=radical)](https://github.com/icaua)
 
 ---
 
@@ -41,10 +46,7 @@ Repositório com atividades e configurações realizadas nas aulas de redes e in
 
 ## 📈 Estatísticas GitHub
 
-![icaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaua&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaua&layout=compact&theme=radical)](https://github.com/icaua)
 
----
 
 ## 📫 Contato
 
