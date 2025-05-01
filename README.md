@@ -1,18 +1,34 @@
-### 👋 Olá! Eu sou o Isaac Cauã
+# 👋 Olá! Eu sou o Isaac Cauã
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP  
-💼 Experiência com análise de dados, BI e suporte técnico  
-💻 Apaixonado por tecnologia, com foco atual em desenvolvimento web e dados  
-🌱 Buscando oportunidades para crescer na área de tecnologia e contribuir com projetos de impacto social
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela FIAP  
+💼 Experiência anterior como Assistente de BI e Suporte Técnico  
+🧠 Conhecimentos em **Desenvolvimento Web**, **Análise de Dados** e **Automação**  
+🌱 Em busca de recolocação na área de **tecnologia**, com foco em impactar positivamente comunidades
 
-### 🛠️ Tecnologias que uso/estudo
-- **Linguagens**: Python, JavaScript, HTML, CSS
-- **Ferramentas**: Git, GitHub, Power BI, SQL Server
-- **Frameworks**: React (iniciando), Bootstrap
-- **Outros**: Linux, Windows, suporte técnico N1/N2
+---
 
-### 📈 Estatísticas GitHub
-![icaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaua&show_icons=true&theme=radical)
+## 🛠️ Tecnologias & Ferramentas
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaaccaua/)
+- **Linguagens**: Python, JavaScript, HTML, CSS, SQL
+- **Banco de Dados**: MySQL, SQL Server
+- **BI e Dados**: Power BI, Excel avançado
+- **Ferramentas**: Git & GitHub, VS Code, Linux, Windows
+- **Frameworks**: Bootstrap, React (básico)
+
+---
+
+## 📈 GitHub Stats
+
+![icaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaua&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaua&layout=compact&theme=tokyonight)](https://github.com/icaua)
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-Isaac%20Cauã-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaaccaua/)  
+📧 Email: isaaccaua.dev@gmail.com  
+
+---
+
+✨ Obrigado por visitar meu perfil! Estou sempre aprendendo e aberto a novas oportunidades.
