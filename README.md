@@ -50,7 +50,7 @@ Repositório com atividades e configurações realizadas nas aulas de redes e in
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-Isaac%20Cauã-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaaccaua/)  
+[![LinkedIn](https://img.shields.io/badge/-Isaac%20Cauã-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-mourao/)  
 📧 Email: isaaccaua.dev@gmail.com
   
 
